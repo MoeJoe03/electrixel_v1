@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import url("https://api.fontshare.com/v2/css?f[]=satoshi@900,700,500,300,400&display=swap");
+
+@theme {
+  --font-sans: "Satoshi", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  --font-instrument: "Instrument Serif", serif;
+  --font-satoshi: "Satoshi", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}

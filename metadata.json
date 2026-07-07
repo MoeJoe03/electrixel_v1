@@ -1,0 +1,6 @@
+{
+  "name": "Electrixel",
+  "description": "Building brands that resonate, websites that convert.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
